@@ -1,5 +1,5 @@
 # Game-of-life
-Simulation of the popular game "Conway's Game of Life " in C
+John Conways famous cellular automaton 
 
 This implementation already comes with 8 initial board configurations that the user can start the game with.
 
